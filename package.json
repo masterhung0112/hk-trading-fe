@@ -1,0 +1,9 @@
+{
+  "name": "hk-trading-fe",
+  "version": "0.0.1",
+  "repository": "git@github.com:masterhung0112/hk-trading-fe.git",
+  "author": "masterhung0112 <masterhung0112@gmail.com>",
+  "license": "MIT",
+  "workspaces": ["packages/*"],
+  "private": "true"
+}
